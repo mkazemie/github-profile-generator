@@ -1,0 +1,5 @@
+# Core app dependencies
+streamlit>=1.38.0
+
+# Utility libraries
+pathlib ; python_version < "3.10"
